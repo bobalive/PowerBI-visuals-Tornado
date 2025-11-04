@@ -5,7 +5,7 @@
     "name": "Microsoft",
     "email": "pbicvsupport@microsoft.com"
   },
-  "private":"true",
+  "private": true,
   "scripts": {
     "pbiviz": "pbiviz",
     "start": "pbiviz start",
